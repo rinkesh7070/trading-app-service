@@ -18,9 +18,10 @@ database.
 
 ## Project Structure
 
+```plaintext
 trading-app-service/
 ├── cmd/
-│   └── main.go            # Entry point for the application
+│   └── main.go                 # Entry point for the application
 ├── 
 ├── internal/
 │   ├── aggregator/
@@ -55,6 +56,7 @@ trading-app-service/
 ├── go.sum                      # Go modules checksum file
 ├── LICENSE                     # MIT License
 └── README.md                   # This README file
+```
 
 ## Prerequisites
 
